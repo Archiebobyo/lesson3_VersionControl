@@ -10,7 +10,7 @@ February 3, 2017
 Gregory Gruse
 
 ## Project Description:
-In this Assignment we set 
+In this Assignment we set up github and connect to cloud9
 
 ## Lessons Learned in the Assignment:
 1. Learned how to connect cloud9 to github
